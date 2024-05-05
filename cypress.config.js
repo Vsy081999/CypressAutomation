@@ -7,6 +7,6 @@ module.exports = defineConfig({
      
     },
     baseUrl : 'https://www.zoho.com/commerce/free-demo.html',
-    excludeSpecPattern:['**/cypress/e2e/1-getting-started','**/cypress/e2e/2-getting-started']
+    excludeSpecPattern:'**/cypress/e2e/2-advanced-examples'
   },
 });
